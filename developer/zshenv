@@ -1,0 +1,4 @@
+export PATH=/opt/homebrew/bin:$HOME/Developer/flutter/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"

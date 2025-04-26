@@ -1,0 +1,9 @@
+[user]
+	name = default
+	email = default@gmail.com
+[core]
+	autocrlf = true
+	longpaths = true
+	safecrlf = warn
+[safe]
+    	directory = *
