@@ -1,9 +1,12 @@
 [user]
-	name = default
-	email = default@gmail.com
+	name = <your_name>
+	email = <your_email>
+	signingkey = <your_signing_key>
 [core]
 	autocrlf = true
 	longpaths = true
 	safecrlf = warn
 [safe]
     	directory = *
+[commit]
+	gpgSign = true
